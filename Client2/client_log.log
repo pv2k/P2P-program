@@ -1,0 +1,15 @@
+------- Connected to luffy-Inspiron-5558 at 05:56PM April 03, 2017 -------
+Commands Sent:
+1. index longlist
+2. index shortlist 2017-03-24 23:48:48.449822911 2017-03-24 23:51:09.565817411
+3. index regex \.txt$
+4. index regex ./*.txt
+5. index regex ./*.py
+6. index regex \.py$
+7. hash verify 3.txt
+8. hash checkall
+9. download tcp 3.txt
+10. download udp 3.txt
+11. download udp 2.txt
+12. index /.*txt
+------- Connection Closed at 06:16PM April 03, 2017 -------
